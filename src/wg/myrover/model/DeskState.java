@@ -6,7 +6,6 @@ import java.io.Serializable;
  * 
 * <p>Title:DeskState </p>
 * <p>Description: 查看磁盘大小使用信息</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
