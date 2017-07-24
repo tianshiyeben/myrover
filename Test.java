@@ -16,7 +16,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Connection conn = CtrCommond.getConn("192.168.1.248", "root", 22, "ecm.2016");
+		Connection conn = CtrCommond.getConn("192.168.1.1", "root", 22, "123456");
 		System.out.println("CPU型号信息："+HostUtils.getCpuModel(conn));
 		System.out.println("物理CPU个数："+HostUtils.getCpuNum(conn));
 		System.out.println("每个CPU核数量："+HostUtils.getCpuPerCores(conn));
