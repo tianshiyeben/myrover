@@ -6,7 +6,6 @@ import java.io.Serializable;
  * 
 * <p>Title:SysLoadState </p>
 * <p>Description: uptime查看系统负载状态</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
