@@ -1,6 +1,6 @@
 # 项目名称：myrover
  ### 项目描述
- java远程执行Linux脚本，远程获取Linux服务器信息，Linux监控
+ java远程执行Linux脚本，远程获取Linux服务器信息，Linux监控。PS：现只支持CentOs和RedHat系统
  ### 目录描述    
     src下为源码  
     jar下为依赖jar包 
