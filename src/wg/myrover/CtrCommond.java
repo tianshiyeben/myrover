@@ -15,7 +15,6 @@ import ch.ethz.ssh2.StreamGobbler;
  * 
 * <p>Title:CtrCommond </p>
 * <p>Description: 链接服务器的工具类</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
