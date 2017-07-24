@@ -17,7 +17,6 @@ import wg.myrover.model.TcpState;
  * 
 * <p>Title:LinuxStrUtil </p>
 * <p>Description: 处理linux命令执行后，返回的结果字符串</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
