@@ -5,7 +5,6 @@ package wg.myrover;
  * 
 * <p>Title:LinuxCmd </p>
 * <p>Description: LINUX命令</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
