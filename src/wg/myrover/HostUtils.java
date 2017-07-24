@@ -15,7 +15,6 @@ import ch.ethz.ssh2.Connection;
 /**
  * <p>Title:HostUtils </p>
  * <p>Description: 获取服务器信息的工具类</p>
- * <p>Company: www.wg900.com</p> 
  * @author yxz
  * @date Jul 24, 2017
  */
