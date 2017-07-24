@@ -5,7 +5,6 @@ import ch.ethz.ssh2.Connection;
 /**
  * <p>Title:Test </p>
  * <p>Description:测试用例 </p>
- * <p>Company: www.wg900.com</p> 
  * @author yxz
  * @date Jul 24, 2017
  */
