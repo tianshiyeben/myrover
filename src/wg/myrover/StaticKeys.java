@@ -4,7 +4,6 @@ package wg.myrover;
 /**
 * <p>Title:StaticKeys </p>
 * <p>Description: 全局静态变量字符 </p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
