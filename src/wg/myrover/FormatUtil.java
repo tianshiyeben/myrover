@@ -10,7 +10,6 @@ import java.util.regex.Pattern;
  * 
 * <p>Title:FormatUtil </p>
 * <p>Description: 格式化字符串类</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
