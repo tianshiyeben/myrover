@@ -6,7 +6,6 @@ import java.io.Serializable;
  * 
 * <p>Title:TcpState </p>
 * <p>Description: 查看TCP连接状态</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
