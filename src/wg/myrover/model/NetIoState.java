@@ -6,7 +6,6 @@ import java.io.Serializable;
  * 
 * <p>Title:NetIoState </p>
 * <p>Description:网络设备的吞吐率 </p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
