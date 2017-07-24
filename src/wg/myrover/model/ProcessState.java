@@ -6,7 +6,6 @@ import java.io.Serializable;
  * 
 * <p>Title:ProcessState </p>
 * <p>Description: 进程状态</p>
-* <p>Company: www.wg900.com</p> 
 * @author yxz
 * @date Jul 24, 2017
  */
